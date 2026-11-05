@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DentalClinicManagementSystem")]
+[assembly: AssemblyTitle("AppointmentsForm")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DentalClinicManagementSystem")]
-[assembly: AssemblyCopyright("Copyright ©  2026")]
+[assembly: AssemblyCompany("HP")]
+[assembly: AssemblyProduct("AppointmentsForm")]
+[assembly: AssemblyCopyright("Copyright © HP 2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e663e216-bac9-4472-bcee-4d2ec83cde24")]
+[assembly: Guid("8a7f582a-56ac-4f85-bc83-f01f0188aa11")]
 
 // Version information for an assembly consists of the following four values:
 //

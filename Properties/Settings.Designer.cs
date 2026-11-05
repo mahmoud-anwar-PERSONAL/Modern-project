@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DentalClinicManagementSystem.Properties
+namespace AppointmentsForm.Properties
 {
 
 

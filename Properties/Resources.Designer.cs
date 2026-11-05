@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace dentalclinicprojecttreatments.Properties {
+namespace AppointmentsForm.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace dentalclinicprojecttreatments.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("dentalclinicprojecttreatments.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("AppointmentsForm.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -57,6 +57,26 @@ namespace dentalclinicprojecttreatments.Properties {
             }
             set {
                 resourceCulture = value;
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2026_11_03_at_9_36_10_PM {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2026-11-03 at 9.36.10 PM", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap WhatsApp_Image_2026_11_05_at_4_31_02_AM {
+            get {
+                object obj = ResourceManager.GetObject("WhatsApp Image 2026-11-05 at 4.31.02 AM", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
     }
