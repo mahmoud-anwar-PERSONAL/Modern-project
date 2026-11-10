@@ -1,0 +1,8 @@
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Treatments\obj\Debug\Treatments.csproj.AssemblyReference.cache
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Treatments\bin\Debug\Treatments.exe
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Treatments\bin\Debug\Treatments.pdb
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Treatments\obj\Debug\dentalclinicprojecttreatments.TreatmentForm.resources
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Treatments\obj\Debug\Treatments.csproj.GenerateResource.cache
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Treatments\obj\Debug\Treatments.csproj.CoreCompileInputs.cache
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Treatments\obj\Debug\Treatments.exe
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Treatments\obj\Debug\Treatments.pdb

@@ -1,0 +1,8 @@
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Patients\obj\Debug\Patients.csproj.AssemblyReference.cache
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Patients\bin\Debug\Patients.exe
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Patients\bin\Debug\Patients.pdb
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Patients\obj\Debug\WinFormsApp2.MainForm.resources
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Patients\obj\Debug\Patients.csproj.GenerateResource.cache
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Patients\obj\Debug\Patients.csproj.CoreCompileInputs.cache
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Patients\obj\Debug\Patients.exe
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Patients\obj\Debug\Patients.pdb

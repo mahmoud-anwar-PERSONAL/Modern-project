@@ -1,0 +1,10 @@
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Appointments\bin\Debug\AppointmentsForm.exe.config
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Appointments\bin\Debug\AppointmentsForm.exe
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Appointments\bin\Debug\AppointmentsForm.pdb
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Appointments\obj\Debug\Appointments.csproj.AssemblyReference.cache
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Appointments\obj\Debug\AppointmentsForm.AppointmentsForm.resources
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Appointments\obj\Debug\AppointmentsForm.Properties.Resources.resources
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Appointments\obj\Debug\Appointments.csproj.GenerateResource.cache
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Appointments\obj\Debug\Appointments.csproj.CoreCompileInputs.cache
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Appointments\obj\Debug\AppointmentsForm.exe
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Appointments\obj\Debug\AppointmentsForm.pdb

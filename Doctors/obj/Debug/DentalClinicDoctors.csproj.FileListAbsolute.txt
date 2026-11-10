@@ -1,0 +1,10 @@
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Doctors\obj\Debug\DentalClinicDoctors.csproj.AssemblyReference.cache
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Doctors\bin\Debug\Dental Clinic - Doctors PROJECTMODERN.exe.config
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Doctors\bin\Debug\Dental Clinic - Doctors PROJECTMODERN.exe
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Doctors\bin\Debug\Dental Clinic - Doctors PROJECTMODERN.pdb
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Doctors\obj\Debug\Dental_Clinic___Doctors_PROJECTMODERN.DoctorsForm.resources
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Doctors\obj\Debug\Dental_Clinic___Doctors_PROJECTMODERN.Properties.Resources.resources
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Doctors\obj\Debug\DentalClinicDoctors.csproj.GenerateResource.cache
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Doctors\obj\Debug\DentalClinicDoctors.csproj.CoreCompileInputs.cache
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Doctors\obj\Debug\Dental Clinic - Doctors PROJECTMODERN.exe
+C:\Users\Mahmo\Downloads\DentalClinic_Combined\Doctors\obj\Debug\Dental Clinic - Doctors PROJECTMODERN.pdb
