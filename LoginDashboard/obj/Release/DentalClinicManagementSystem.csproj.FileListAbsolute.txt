@@ -1,0 +1,23 @@
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\LoginDashboard\bin\Release\DentalClinicManagementSystem.exe.config
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\LoginDashboard\bin\Release\DentalClinicManagementSystem.exe
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\LoginDashboard\bin\Release\DentalClinicManagementSystem.pdb
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\LoginDashboard\bin\Release\AppointmentsForm.exe
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\LoginDashboard\bin\Release\Dental Clinic - Doctors PROJECTMODERN.exe
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\LoginDashboard\bin\Release\Patients.exe
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\LoginDashboard\bin\Release\Treatments.exe
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\LoginDashboard\bin\Release\Dental Clinic - Doctors PROJECTMODERN.pdb
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\LoginDashboard\bin\Release\Dental Clinic - Doctors PROJECTMODERN.exe.config
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\LoginDashboard\bin\Release\AppointmentsForm.pdb
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\LoginDashboard\bin\Release\AppointmentsForm.exe.config
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\LoginDashboard\bin\Release\Patients.pdb
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\LoginDashboard\bin\Release\Treatments.pdb
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\LoginDashboard\obj\Release\DentalClinicManagementSystem.csproj.AssemblyReference.cache
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\LoginDashboard\obj\Release\DentalClinicManagementSystem.DashboardForm.resources
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\LoginDashboard\obj\Release\DentalClinicManagementSystem.LoginForm.resources
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\LoginDashboard\obj\Release\DentalClinicManagementSystem.ReportsForm.resources
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\LoginDashboard\obj\Release\DentalClinicManagementSystem.Properties.Resources.resources
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\LoginDashboard\obj\Release\DentalClinicManagementSystem.csproj.GenerateResource.cache
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\LoginDashboard\obj\Release\DentalClinicManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\LoginDashboard\obj\Release\DentalCl.3BF569B9.Up2Date
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\LoginDashboard\obj\Release\DentalClinicManagementSystem.exe
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\LoginDashboard\obj\Release\DentalClinicManagementSystem.pdb

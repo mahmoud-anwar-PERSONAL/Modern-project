@@ -1,0 +1,8 @@
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Patients\bin\Debug\Patients.exe
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Patients\bin\Debug\Patients.pdb
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Patients\obj\Debug\Patients.csproj.AssemblyReference.cache
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Patients\obj\Debug\WinFormsApp2.MainForm.resources
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Patients\obj\Debug\Patients.csproj.GenerateResource.cache
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Patients\obj\Debug\Patients.csproj.CoreCompileInputs.cache
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Patients\obj\Debug\Patients.exe
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Patients\obj\Debug\Patients.pdb
