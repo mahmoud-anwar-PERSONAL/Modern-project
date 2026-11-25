@@ -1,0 +1,8 @@
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Treatments\bin\Release\Treatments.exe
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Treatments\bin\Release\Treatments.pdb
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Treatments\obj\Release\Treatments.csproj.AssemblyReference.cache
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Treatments\obj\Release\dentalclinicprojecttreatments.TreatmentForm.resources
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Treatments\obj\Release\Treatments.csproj.GenerateResource.cache
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Treatments\obj\Release\Treatments.csproj.CoreCompileInputs.cache
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Treatments\obj\Release\Treatments.exe
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Treatments\obj\Release\Treatments.pdb
