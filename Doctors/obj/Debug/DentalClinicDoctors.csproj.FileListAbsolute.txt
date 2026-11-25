@@ -1,0 +1,10 @@
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Doctors\bin\Debug\Dental Clinic - Doctors PROJECTMODERN.exe.config
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Doctors\bin\Debug\Dental Clinic - Doctors PROJECTMODERN.exe
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Doctors\bin\Debug\Dental Clinic - Doctors PROJECTMODERN.pdb
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Doctors\obj\Debug\DentalClinicDoctors.csproj.AssemblyReference.cache
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Doctors\obj\Debug\Dental_Clinic___Doctors_PROJECTMODERN.DoctorsForm.resources
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Doctors\obj\Debug\Dental_Clinic___Doctors_PROJECTMODERN.Properties.Resources.resources
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Doctors\obj\Debug\DentalClinicDoctors.csproj.GenerateResource.cache
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Doctors\obj\Debug\DentalClinicDoctors.csproj.CoreCompileInputs.cache
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Doctors\obj\Debug\Dental Clinic - Doctors PROJECTMODERN.exe
+C:\Users\original\Downloads\DentalClinic_Combined_v2\DentalClinic_Combined\Doctors\obj\Debug\Dental Clinic - Doctors PROJECTMODERN.pdb
